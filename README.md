@@ -8,4 +8,4 @@ This Interface is designed to analyse, calculate and display which hospital is t
 
 Designed Using Turf.js and MapboxGL JS 
 
-Git Page hosting the project https://atcodedog05.github.io/MapboxGL-JS-Pubs-in-Bangalore/
+Git Page hosting the project https://atcodedog05.github.io/MapboxGL-JS-Nearest-Hospital-Finder/
